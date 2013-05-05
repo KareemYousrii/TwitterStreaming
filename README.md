@@ -1,4 +1,0 @@
-TwitterStreaming
-================
-
-Twitter Streaming API
